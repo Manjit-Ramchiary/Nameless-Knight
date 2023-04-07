@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nameless-Knight
+- 👋 Hi, I’m Manjit Ramchiary
 - 👀 I’m interested in Coding & Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Programming
